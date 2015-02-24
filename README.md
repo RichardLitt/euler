@@ -1,2 +1,2 @@
 # euler
-Project Euler files
+Just for me. Nothing to see here, move along. 
